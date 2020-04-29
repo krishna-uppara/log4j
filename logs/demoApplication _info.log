@@ -1,0 +1,6 @@
+hello 2020-02-17 17:18:05,001 hello.main(hello.java:9) Logger Debug 
+hello 2020-02-17 17:18:05,007 hello.main(hello.java:10) Logger Info 
+hello 2020-02-17 17:18:05,007 hello.main(hello.java:11) Error 
+hello 2020-02-17 17:21:10,341 hello.main(hello.java:9) Logger Debug 
+hello 2020-02-17 17:21:10,346 hello.main(hello.java:10) Logger Info 
+hello 2020-02-17 17:21:10,347 hello.main(hello.java:11) Error 
